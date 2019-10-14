@@ -1,1 +1,1 @@
-# TEXT-CLASSIFICATION
+The case study classifies yelp dataset of 10000 reviews in three categories for sentiment positive, neutral and negative. Text was transformed using TF-IDF vectorization. Naïve Bayes model was used for classification and performance was analyzed with metrics precision and recall. Wordcloud visualization was done to show key words.
